@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台管理 - 易买网</title>
+<link type="text/css" rel="stylesheet" href="__PUBLIC__/css/style.css" />
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#sub").click(function(){
+		if(typeof($("#attrName").val()) == null){
+			alert("请输入分类名称");
+		}else{
+		var url = "__CONTROLLER__/getattrdata";
+		$.post(url,{attrgroup:$("#attrgroup").val(),attrName:$("#attrName").val()},function(msg){
+			alert(msg);
+		})
+		}
+	})
+	})
+</script>
+</head>
+<body>
+<include file="./dawashop/Admin/view/publicfile/head.html" />
+<div id="childNav">
+	<div class="welcome wrap">
+		管理员pillys您好，今天是2012-12-21，欢迎回到管理后台。
+	</div>
+</div>
+<div id="position" class="wrap">
+	您现在的位置：<a href="index.html">易买网</a> &gt; 管理后台
+</div>
+<div id="main" class="wrap">
+	<include file="./dawashop/Admin/view/publicfile/lefter.html" />
+	<div class="main">
+		<h2>添加分类</h2>
+		<div class="manage">
+			<form action="" method="post">
+				<table class="form">
+					<tr>
+						<td class="field">父分类：</td>
+						<td>
+							<select id="attrgroup" value="">
+							<option value="0">根栏目</option>
+							<foreach name="parentattr" item="v">
+								<option value="{$v.attrgroup_id}">{$v.attr_name}</option>
+							</foreach>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="field">分类名称：</td>
+						<td><input type="text" class="text" id="attrName" /></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><label class="ui-blue"><input type="button" id="sub" value="提交" /></label></td>
+					</tr>
+				</table>
+			</form>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="footer">
+	Copyright &copy; 2010 北大青鸟 All Rights Reserved. 京ICP证1000001号
+</div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+[ 2016-10-12T19:24:28+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.065124s ]
+
+[ 2016-10-12T19:25:57+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-10-12T19:25:59+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-10-12T19:26:12+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 非法操作:product
+
+[ 2016-10-12T19:47:10+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-10-12T19:47:11+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 模板不存在:./dawashop/Admin/View/Product_product.html
+
+[ 2016-10-12T19:47:19+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-10-12T20:19:44+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-10-12T20:19:46+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-10-12T20:26:40+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+

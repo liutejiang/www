@@ -1,0 +1,189 @@
+[ 2016-10-13T10:25:33+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047461s ]
+
+[ 2016-10-13T10:28:08+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-10-13T10:28:18+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-10-13T10:43:23+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 无法加载控制器:Product
+
+[ 2016-10-13T10:43:26+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载控制器:Product
+
+[ 2016-10-13T10:43:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-10-13T10:43:38+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载控制器:Productattr
+
+[ 2016-10-13T10:43:59+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载控制器:Productattr
+
+[ 2016-10-13T10:45:40+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-10-13T11:07:46+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-10-13T11:07:48+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-10-13T11:09:33+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-10-13T11:09:42+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-10-13T11:13:07+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-10-13T11:13:08+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-10-13T11:13:08+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-10-13T11:13:41+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-10-13T11:14:20+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-10-13T13:05:24+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014145s ]
+
+[ 2016-10-13T13:05:27+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-10-13T13:05:30+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-10-13T13:21:40+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-10-13T13:21:52+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-10-13T13:22:01+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-10-13T13:22:04+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-10-13T13:22:55+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-10-13T13:23:33+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-10-13T13:23:34+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-10-13T13:23:48+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-10-13T13:24:24+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-10-13T13:24:41+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-10-13T13:24:46+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-10-13T13:25:31+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-10-13T13:25:41+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-10-13T13:26:24+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-10-13T13:26:57+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-10-13T13:27:37+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+

@@ -1,0 +1,1001 @@
+[ 2016-09-30T00:00:38+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 25 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001696s ]
+
+[ 2016-09-30T00:03:45+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 25 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2016-09-30T00:22:27+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-09-30T00:22:33+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-09-30T00:28:27+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-09-30T00:28:37+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-09-30T00:30:21+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2016-09-30T00:32:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2016-09-30T00:34:03+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-09-30T00:36:03+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2016-09-30T00:36:18+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2016-09-30T00:40:32+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined variable: headinfo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2016-09-30T00:40:39+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined variable: headinfo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-09-30T00:46:26+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002161s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined index: error C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined variable: headinfo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-09-30T00:47:48+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+
+[ 2016-09-30T00:49:20+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+
+[ 2016-09-30T00:50:14+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001459s ]
+
+[ 2016-09-30T00:50:49+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001878s ]
+
+[ 2016-09-30T00:51:48+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-09-30T00:52:53+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-09-30T00:58:28+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001525s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2016-09-30T00:58:57+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2016-09-30T00:59:41+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001952s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-09-30T00:59:44+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-09-30T00:59:47+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-09-30T00:59:50+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-09-30T00:59:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-09-30T01:00:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-09-30T08:41:11+08:00 ] ::1 /dawashop/admin.php/admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.228633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.228769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.020281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.066524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.066644s ]
+
+[ 2016-09-30T08:41:14+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003023s ]
+
+[ 2016-09-30T08:41:25+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001997s ]
+
+[ 2016-09-30T08:43:22+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004819s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002442s ]
+
+[ 2016-09-30T08:44:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002468s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-09-30T08:48:07+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2016-09-30T08:57:44+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001934s ]
+
+[ 2016-09-30T08:58:56+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+
+[ 2016-09-30T08:59:31+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-09-30T09:00:53+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002009s ]
+
+[ 2016-09-30T09:10:33+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2016-09-30T09:11:40+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2016-09-30T09:12:04+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2016-09-30T09:13:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001297s ]
+
+[ 2016-09-30T09:14:06+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2016-09-30T09:14:24+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2016-09-30T09:15:02+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004991s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+NOTIC: [8] Undefined index: saveName C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-09-30T09:15:33+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001264s ]
+
+[ 2016-09-30T09:15:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001209s ]
+
+[ 2016-09-30T09:16:12+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001191s ]
+
+[ 2016-09-30T09:19:15+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001409s ]
+
+[ 2016-09-30T09:32:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.053447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.053567s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.053514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.053583s ]
+
+[ 2016-09-30T09:32:49+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2016-09-30T09:40:32+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001641s ]
+
+[ 2016-09-30T09:41:30+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2016-09-30T09:41:49+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001183s ]
+
+[ 2016-09-30T09:42:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001520s ]
+
+[ 2016-09-30T09:48:01+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2016-09-30T09:49:06+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2016-09-30T09:51:51+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2016-09-30T11:21:56+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002220s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011306s ]
+
+[ 2016-09-30T16:10:20+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026104s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.139616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029047s ]
+
+[ 2016-09-30T16:10:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 44 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-30T16:11:13+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-30T16:12:29+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\AppServ\www\dawashop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-30T16:27:41+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-09-30T16:43:54+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:44:30+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:48:26+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:48:49+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:49:17+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-09-30T16:49:51+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:53:53+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : INSERT INTO `think_user` () VALUES ()
+
+[ 2016-09-30T16:58:55+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-09-30T17:00:05+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+
+[ 2016-09-30T17:01:40+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-09-30T17:03:11+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+
+[ 2016-09-30T17:10:27+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-09-30T17:14:46+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-09-30T17:19:15+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-09-30T17:30:07+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-09-30T17:30:26+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-09-30T18:57:31+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-09-30T19:24:30+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-09-30T20:40:50+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-09-30T20:51:09+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-09-30T22:08:29+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.048698s ]
+
+[ 2016-09-30T22:10:05+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-09-30T22:22:57+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-09-30T22:25:56+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-09-30T23:43:55+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-09-30T23:44:51+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-09-30T23:45:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+

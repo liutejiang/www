@@ -1,0 +1,61 @@
+[ 2016-10-01T00:06:34+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-10-01T00:07:08+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-10-01T00:10:03+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-10-01T00:29:23+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-10-01T14:48:37+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022838s ]
+
+[ 2016-10-01T14:50:57+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-01T16:33:19+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031264s ]
+
+[ 2016-10-01T16:34:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-10-01T16:34:30+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-10-01T17:45:23+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: Think\Model:unique方法不存在！
+
+[ 2016-10-01T22:23:05+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024346s ]
+
+[ 2016-10-01T22:23:11+08:00 ] ::1 /dawashop/admin.php/Admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+

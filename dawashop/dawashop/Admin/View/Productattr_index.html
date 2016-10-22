@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台管理 - 易买网</title>
+<link type="text/css" rel="stylesheet" href="__PUBLIC__/css/style.css" />
+</head>
+<body>
+<include file="./dawashop/Admin/view/publicfile/head.html" />>
+<div id="childNav">
+	<div class="welcome wrap">
+		管理员pillys您好，今天是2012-12-21，欢迎回到管理后台。
+	</div>
+</div>
+<div id="position" class="wrap">
+	您现在的位置：<a href="index.html">易买网</a> &gt; 管理后台
+</div>
+<div id="main" class="wrap">
+	<include file="./dawashop/Admin/view/publicfile/lefter.html" />>
+	<div class="main">
+		<h2>分类管理</h2>
+		<div class="manage">
+			<table class="list">
+				<tr>
+					<th>ID</th>
+					<th>分类名称</th>
+					<th>操作</th>
+				</tr>
+				<foreach name="to_attr_data" item="v">
+				<tr>
+					<td class="first w4 c">{$v.attr_id}</td>
+					<td>{$v.html}{$v.attr_name}</td>
+					<td><a href="{:U('Admin/Productattr/addattr',array('id' => $v['attr_id']))}">增加分类</a>&nbsp<a href="productClass-modify.html">修改</a> <a href="{:U('Admin/Productattr/delattr',array('id' => $v['attr_id']))}">删除</a></td>
+				</tr>
+				</foreach>
+			</table>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div>{$page}</div>
+</div>
+<div id="footer">
+	Copyright &copy; 2010 北大青鸟 All Rights Reserved. 京ICP证1000001号
+</div>
+</body>
+</html>

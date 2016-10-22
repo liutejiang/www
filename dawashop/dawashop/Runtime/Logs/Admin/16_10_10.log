@@ -1,0 +1,471 @@
+[ 2016-10-10T08:44:40+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027791s ]
+
+[ 2016-10-10T08:52:09+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-10-10T08:57:04+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-10-10T08:57:07+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-10-10T08:59:10+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-10-10T09:20:52+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+
+[ 2016-10-10T09:20:54+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-10-10T09:20:57+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productClass-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 非法操作:productClass-add
+
+[ 2016-10-10T09:20:59+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T09:24:36+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-10-10T09:58:17+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-10-10T09:58:18+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-10-10T09:58:24+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+
+[ 2016-10-10T09:58:27+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-10-10T09:58:33+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-10-10T09:58:36+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-10-10T09:58:37+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-10-10T09:58:40+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-10-10T09:58:41+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-10-10T09:58:41+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T09:58:42+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T09:58:45+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T09:59:18+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T10:01:05+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T10:01:07+08:00 ] ::1 /dawashop/admin.php/Admin/Product/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 非法操作:order
+
+[ 2016-10-10T10:03:14+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-10-10T10:03:15+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-10-10T10:03:20+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-10-10T10:14:13+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-10-10T10:14:16+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-10-10T10:18:42+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-10-10T10:18:42+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:18:42+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:20:58+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2016-10-10T10:20:58+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:20:58+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:21:10+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-10-10T10:21:10+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:21:10+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:22:52+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:47+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-10T10:26:47+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:48+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:48+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-10-10T10:26:49+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:49+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:49+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+
+[ 2016-10-10T10:26:49+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:49+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:50+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001671s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/scripts/function-manage.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+ERR: 无法加载控制器:Scripts
+
+[ 2016-10-10T10:26:51+08:00 ] ::1 /dawashop/admin.php/Admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载控制器:Css
+
+[ 2016-10-10T10:30:25+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-10-10T10:33:48+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T10:35:40+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T10:58:18+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T10:58:21+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-10-10T10:58:24+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-10T10:58:29+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 非法操作:add
+
+[ 2016-10-10T10:59:19+08:00 ] ::1 /dawashop/admin.php/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-10-10T10:59:22+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001729s ]
+
+[ 2016-10-10T10:59:24+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 非法操作:add
+
+[ 2016-10-10T10:59:54+08:00 ] ::1 /dawashop/admin.php/Admin/Product/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 非法操作:add
+
+[ 2016-10-10T10:59:57+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-10-10T10:59:58+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+
+[ 2016-10-10T11:09:41+08:00 ] ::1 /dawashop/admin.php/Admin/Product/classadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-10-10T11:09:42+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T11:09:44+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 模板不存在:./dawashop/Admin/View/Product_productadd.html
+
+[ 2016-10-10T11:10:16+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 模板不存在:./dawashop/Admin/View/Product_productadd.html
+
+[ 2016-10-10T11:10:45+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-10-10T12:09:55+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+
+[ 2016-10-10T12:09:57+08:00 ] ::1 /dawashop/admin.php/Admin/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 非法操作:product
+
+[ 2016-10-10T12:09:59+08:00 ] ::1 /dawashop/admin.php/Admin/Product/productadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-10-10T12:10:02+08:00 ] ::1 /dawashop/admin.php/Admin/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+

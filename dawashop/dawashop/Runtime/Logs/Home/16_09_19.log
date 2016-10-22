@@ -1,0 +1,37 @@
+[ 2016-09-19T09:32:17+08:00 ] ::1 /dawashop/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016189s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002709s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002833s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.207800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.207886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011144s ]
+
+[ 2016-09-19T09:50:22+08:00 ] ::1 /dawashop/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002964s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002016s ]
+

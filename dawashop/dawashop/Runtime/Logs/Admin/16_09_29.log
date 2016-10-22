@@ -1,0 +1,124 @@
+[ 2016-09-29T23:33:33+08:00 ] ::1 /dawashop/admin.php/admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.051974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.052072s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.406155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.406461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.027452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022728s ]
+
+[ 2016-09-29T23:33:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-09-29T23:34:06+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-09-29T23:37:37+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2016-09-29T23:38:23+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2016-09-29T23:54:13+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-09-29T23:56:14+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001876s ]
+
+[ 2016-09-29T23:56:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+NOTIC: [8] Undefined index: photo C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 15 行.
+NOTIC: [8] Use of undefined constant headpic - assumed 'headpic' C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 16 行.
+NOTIC: [8] Undefined index: headpic C:\AppServ\www\dawashop\dawashop\Admin\Controller\UserController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+

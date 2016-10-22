@@ -1,0 +1,238 @@
+[ 2016-10-02T09:29:35+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011779s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:30:43+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:32:42+08:00 ] ::1 /dawashop/admin.php/Admin/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/index.html
+
+[ 2016-10-02T09:33:12+08:00 ] ::1 /dawashop/admin.php/Admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/index.html
+
+[ 2016-10-02T09:38:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/index.html
+
+[ 2016-10-02T09:46:53+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:48:55+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:55:45+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:55:46+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:55:46+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:58:00+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T09:58:06+08:00 ] ::1 /dawashop/admin.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+ERR: 模板不存在:./dawashop/Admin/View/Index/index.html
+
+[ 2016-10-02T10:00:01+08:00 ] ::1 /dawashop/admin.php/Admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/index.html
+
+[ 2016-10-02T10:00:20+08:00 ] ::1 /dawashop/admin.php/Admin/user_index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载控制器:User_index.php
+
+[ 2016-10-02T10:00:30+08:00 ] ::1 /dawashop/admin.php/Admin/user/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 非法操作:index.php
+
+[ 2016-10-02T10:00:39+08:00 ] ::1 /dawashop/admin.php/Admin/user/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:00:44+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:00:48+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:00:53+08:00 ] ::1 /dawashop/admin.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:30:37+08:00 ] ::1 /dawashop/admin.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:30:38+08:00 ] ::1 /dawashop/admin.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:30:38+08:00 ] ::1 /dawashop/admin.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:30:39+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:30:41+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:31:01+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+ERR: 模板不存在:./dawashop/Admin/View/User/add.html
+
+[ 2016-10-02T10:37:35+08:00 ] ::1 /dawashop/admin.php/Admin/user_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载控制器:User_add
+
+[ 2016-10-02T10:37:43+08:00 ] ::1 /dawashop/admin.php/Admin/user_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载控制器:User_add
+
+[ 2016-10-02T10:37:56+08:00 ] ::1 /dawashop/admin.php/Admin/user_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载控制器:User_add
+
+[ 2016-10-02T10:38:06+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-10-02T16:44:27+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028413s ]
+
+[ 2016-10-02T16:44:37+08:00 ] ::1 /dawashop/admin.php/Admin/user_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载控制器:User_add
+
+[ 2016-10-02T16:45:39+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-10-02T16:50:16+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-10-02T17:03:58+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-10-02T17:11:17+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2016-10-02T17:11:35+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-10-02T17:14:28+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-10-02T17:19:23+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 1048:Column 'userpasswd' cannot be null
+ [ SQL语句 ] : INSERT INTO `think_user` (`name`,`sex`,`email`,`address`,`userpasswd`) VALUES ('刘鑫','1','2592@qq.com','重庆市永川区',NULL)
+
+[ 2016-10-02T17:19:32+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 1048:Column 'userpasswd' cannot be null
+ [ SQL语句 ] : INSERT INTO `think_user` (`name`,`sex`,`email`,`address`,`userpasswd`) VALUES ('刘鑫','1','2592@qq.com','重庆市永川区',NULL)
+
+[ 2016-10-02T17:54:53+08:00 ] ::1 /dawashop/admin.php/Admin/User/getdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-10-02T18:32:41+08:00 ] ::1 /dawashop/admin.php/Admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+

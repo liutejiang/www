@@ -1,0 +1,698 @@
+[ 2016-10-18T09:33:29+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.041276s ]
+
+[ 2016-10-18T09:33:29+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.041328s ]
+
+[ 2016-10-18T09:34:16+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-10-18T09:38:49+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-10-18T09:38:52+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-10-18T09:40:50+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-10-18T09:51:35+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-10-18T09:51:41+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-10-18T11:02:49+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-10-18T11:03:04+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0158s ]
+NOTIC: [8] Undefined variable: attr_name C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 31 行.
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 31 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+
+[ 2016-10-18T11:04:17+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: attr_name C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 31 行.
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 31 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+
+[ 2016-10-18T11:04:32+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [8] Undefined variable: attrgroup C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 19 行.
+
+[ 2016-10-18T11:05:13+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+NOTIC: [8] Undefined variable: attrgroup C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 19 行.
+
+[ 2016-10-18T11:09:19+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T11:11:05+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2016-10-18T11:11:17+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T11:12:10+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: attr_name C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 33 行.
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 33 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='%s',Array('attr_name') )' at line 1
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( ='%s',Array('attr_name') ) 
+
+[ 2016-10-18T11:13:13+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-10-18T11:14:12+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+
+[ 2016-10-18T11:19:31+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+
+[ 2016-10-18T11:20:10+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-10-18T11:53:30+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.032850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032924s ]
+
+[ 2016-10-18T11:53:35+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-10-18T12:00:27+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2016-10-18T12:02:01+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-10-18T12:02:25+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.1085s ]
+
+[ 2016-10-18T12:03:33+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:03:36+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:03:38+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-10-18T12:04:47+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-10-18T12:05:01+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:05:09+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:05:23+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:05:47+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0002s ]
+
+[ 2016-10-18T12:06:06+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:06:13+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:06:15+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-10-18T12:06:23+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-10-18T12:06:39+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:07:25+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '服装' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:08:42+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-10-18T12:08:50+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食物' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:11:52+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-10-18T12:12:03+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食物' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:12:58+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '服装' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:16:30+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-10-18T12:16:34+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '服装' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T12:16:45+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_product_attrgroup` (`attrgroup_name`) VALUES ('食品') [ RunTime:0.2658s ]
+
+[ 2016-10-18T12:24:06+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2016-10-18T12:24:15+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.1771s ]
+NOTIC: [8] Undefined variable: attrgroup_name C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 32 行.
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 35 行.
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+
+[ 2016-10-18T12:24:26+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: attrgroup_name C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 32 行.
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 35 行.
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+
+[ 2016-10-18T12:25:50+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-10-18T12:25:56+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0009s ]
+NOTIC: [8] Array to string conversion C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 35 行.
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+ERR: 1305:FUNCTION think_dawashop.Array does not exist
+ [ SQL语句 ] : SELECT * FROM `think_product_attr` WHERE ( attr_name= '%s' ,Array('attr_name') ) 
+
+[ 2016-10-18T12:34:16+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-10-18T12:34:29+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-10-18T12:59:57+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-10-18T13:00:04+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-10-18T13:09:20+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-10-18T13:09:31+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-10-18T13:10:15+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '家用物品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 26 行.
+
+[ 2016-10-18T13:10:32+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '家用物品' )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 26 行.
+
+[ 2016-10-18T13:11:30+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-10-18T13:11:36+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '家用物品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 26 行.
+
+[ 2016-10-18T13:13:27+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2016-10-18T13:13:33+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '家用物品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T13:14:45+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '食品' )  [ RunTime:0.0003s ]
+
+[ 2016-10-18T16:55:57+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.071439s ]
+
+[ 2016-10-18T16:56:26+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T16:58:07+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0166s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T16:58:09+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-10-18T16:58:16+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T16:59:51+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T17:00:12+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 25 行.
+
+[ 2016-10-18T17:04:04+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-10-18T17:04:10+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '化妆品' )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_product_attrgroup` (`attrgroup_id`,`attrgroup_name`) VALUES ('0','化妆品') [ RunTime:0.1293s ]
+
+[ 2016-10-18T17:44:35+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+
+[ 2016-10-18T17:44:37+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '' )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_product_attrgroup` (`attrgroup_id`,`attrgroup_name`) VALUES ('0','') [ RunTime:0.4070s ]
+
+[ 2016-10-18T17:52:44+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-10-18T17:52:52+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+NOTIC: [8] Undefined variable: attrgroup_id C:\AppServ\www\dawashop\dawashop\Admin\Controller\ProductattrController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `think_product_attrgroup` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_product_attrgroup` WHERE ( attrgroup_name = '女装' )  [ RunTime:0.0004s ]
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `think_product_attrgroup` (`attrgroup_id`,`attrgroup_name`) VALUES ('2','女装')
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `think_product_attrgroup` (`attrgroup_id`,`attrgroup_name`) VALUES ('2','女装')
+
+[ 2016-10-18T17:53:42+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-10-18T17:53:52+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/getattrdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `think_product_attr` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_product_attr` WHERE ( attr_name= '女装' )  [ RunTime:0.0005s ]
+SQL: INSERT INTO `think_product_attr` (`attr_name`,`attrgroup_id`) VALUES ('女装','2') [ RunTime:0.1023s ]
+
+[ 2016-10-18T20:28:45+08:00 ] ::1 /dawashop/admin.php/Admin/Productattr/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+
